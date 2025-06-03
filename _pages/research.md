@@ -1,16 +1,18 @@
 ---
-
 layout: archive
-title: ""
-permalink: /experience/
+title: "Research"
+permalink: /research/
 author_profile: true
 
 ---
 
-* **Data Scientist, [GE Aerospace](https://www.geaerospace.com/)** (2018 - 2020)
-    * Manager: [Jayanth Sekar](https://www.linkedin.com/in/jayanth-sekar-9b9285a/?originalSubdomain=in), Mentor: [Dr. Srikanth Akkaram](https://www.linkedin.com/in/srikanth-a-b15913c/)
-* **Research Engineer-DTLP, [GE Global Research](https://www.ge.com/news/reports/tag/ge%20global%20research)** (2017 - 2018)
-    * Mentors: [Dr. Sanjay Sondhi](https://www.linkedin.com/in/sanjay-sondhi/), [Dr. Sanket Sarkar](https://www.linkedin.com/in/sanket-sarkar-5a43a646/)
-* **Digital Technology Leadership Program, [GE](https://careers.geaerospace.com/global/en/digital-technology-leadership-program)** (2017 - 2019)
-    * DTX1 - Leadership Trainee, GE Detroit, USA, (Aug 2018)
-    * DTX2 - Leadership Trainee, GE Budapest, Hungary, (July 2018)
+# Research
+
+* **A Temporal Single-Cell Multi-Omics Atlas of Murine Pancreatic Islet Remodeling During Hyperglycaemia Progression**
+Simran Singh, Musale Krushna Pavan, Luiz F Barella, Jayesh Telang, **Ajita Shree**, Shruti Agarwal, Ayush Goel, Saahiba i Thaleshwar, Jurgen Wess, Hamim Zafar, Sai Prasad Pydi
+[bioRXiv](https://www.biorxiv.org/content/10.1101/2025.05.29.656754v1), 2025
+
+* **scDREAMER for atlas-level integration of single-cell datasets using deep generative model paired with adversarial classifier**
+**Ajita Shree**, Musale Krushna Pavan, Hamim Zafar
+[Nature Communications](https://www.nature.com/articles/s41467-023-43590-8), 2023
+
