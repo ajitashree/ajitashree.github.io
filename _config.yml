@@ -23,10 +23,10 @@ repository               : "ajitashree/ajitashree.github.io"
 author:
   # Biographic information
   avatar           : "photo.jpg"
-  name             : ""
+  name             : "Ajita Shree"
   pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : 
+  bio              : "PhD Student at Department of Computer Science and Engineering, IIT Kanpur"
+  location         : "Kanpur, Uttar Pradesh"
   employer         : "Indian Institute of Technology Kanpur"
   uri              : # URL
   email            : "ajitashree20@iitk.ac.in" 
