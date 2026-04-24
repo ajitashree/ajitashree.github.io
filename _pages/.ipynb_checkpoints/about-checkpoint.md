@@ -8,21 +8,23 @@ redirect_from:
 ---
 ## About Me
 
-I am a Postdoctoral Researcher in [Julio Saez Rodriguez](https://www.ebi.ac.uk/people/person/julio-saez-rodriguez/)'s Lab at [EMBL-EBI, Wellcome Genome Campus](https://www.ebi.ac.uk/), Cambridge, UK . I completed PhD in the Department of Computer Science and Engineering at [IIT Kanpur](https://www.cse.iitk.ac.in/), working in the [CoSmic Lab](https://zafar-lab.github.io/CoSmic-lab/) under the supervision of [Dr. Hamim Zafar](https://hamimzafar.wixsite.com/home). My dissertation focused on deep generative models for single-cell and spatial transcriptomics datasets. My current research focuses on developing computational methods that leverage deep generative modeling and probabilistic machine learning to address fundamental challenges in computational genomics.
+I am a Postdoctoral Researcher in [Julio Saez Rodriguez](https://www.ebi.ac.uk/people/person/julio-saez-rodriguez/)'s Lab at [EMBL-EBI, Wellcome Genome Campus](https://www.ebi.ac.uk/), Cambridge, UK. I completed PhD in the Department of Computer Science and Engineering at [IIT Kanpur](https://www.cse.iitk.ac.in/), working in the [CoSmic Lab](https://zafar-lab.github.io/CoSmic-lab/) under the supervision of [Dr. Hamim Zafar](https://hamimzafar.wixsite.com/home). My dissertation focused on deep generative models for single-cell and spatial transcriptomics datasets. My current research focuses on developing computational methods that leverage deep generative modeling and probabilistic machine learning to address fundamental challenges in computational genomics.
 
 Previously, I completed M.Tech in Computer Science and Engineering from [IIT Delhi](https://homecse.iitd.ac.in/) advised by [Prof. Naveen Garg](https://www.cse.iitd.ac.in/~naveen/). I also have industry experience at [GE Global Research](https://www.ge.com/news/reports/tag/global%20research%20center) and [GE Aviation](https://www.geaerospace.com/), where I contributed to the development of large-scale machine learning systems for flight scheduling, specifically focusing on engine failure forecasting for the international airline industry.
 
 ## Recent News
 
-* **June 2025**: New pre-print out! [A Temporal Single-Cell Multi-Omics Atlas of Murine Pancreatic Islet Remodeling During Hyperglycaemia Progression](https://www.biorxiv.org/content/10.1101/2025.05.29.656754v1)
-* **April 2025**: Presented Poster at [RECOMB 2025, Seoul, South Korea](https://recomb.org/recomb2025/)
+* **May 2026**: New pre-print out!
+* **April 2026**: Joined [Julio Saez-Rodriguez](https://www.ebi.ac.uk/people/person/julio-saez-rodriguez/)'s group as Postdoctoral Researcher at [EMBL-EBI, Wellcome Genome Campus, Cambridge, UK](https://www.ebi.ac.uk/).
+* **Feb 2026**: Delivered a talk on "Deep generative models for single-cell and spatial genomics" at the [Department of Computer Science and Engineering, IIT Delhi](https://homecse.iitd.ac.in/event/deep-generative-models-for-single-cell-and-spatial-genomics-by-ajita-shree/)
+* **April 2025**: Presented Poster and Lightening talk at [RECOMB 2025, Seoul, South Korea](https://recomb.org/recomb2025/)
 * **November 2023**: [scDREAMER](https://www.nature.com/articles/s41467-023-43590-8) is published in Nature Communications. See [this blog](https://communities.springernature.com/posts/integrating-single-cell-atlases-with-scdreamer) to learn more.
 * **November 2023**: Presented at the Mehta Family Center for Engineering & Medicine research symposium.
 * **July 2023**: Presented Poster on "Supervised integration of single-cell datasets using hierarchical deep-generative model paired with cell-type classifier" at [ISMB/ECCB 2023, Lyon, France](https://www.iscb.org/ismbeccb2023-programme/posters)
-* **June 2023**: Presented Poster at [Symposium on Big Data Algorithms for Biology, IISC](https://www.bdbio.in/)
+* **June 2023**: Presented Poster at [Symposium on Big Data Algorithms for Biology, IISC, Bengaluru](https://www.bdbio.in/)
 * **July 2022**: New pre-print out! [scDREAMER](https://www.biorxiv.org/content/10.1101/2022.07.12.499846v1)
-* **July 2022**: Presented Poster on [scDREAMER: atlas-level integration of single-cell datasets using deep generative model paired with adversarial classifier](https://www.iscb.org/ismb2022-program/posters) online in MLCSB at ISMB 2022.
-* **June 2022**: Presented Poster online at [Single Cell Biology 2022](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-biology-20220606/)
+* **June 2022**: Presented Poster on [scDREAMER: atlas-level integration of single-cell datasets using deep generative model paired with adversarial classifier](https://www.iscb.org/ismb2022-program/posters) online in MLCSB at ISMB 2022, Washington, USA and in [Single Cell Biology 2022](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-biology-20220606/), Cambridge, UK.
+
 
 
 
