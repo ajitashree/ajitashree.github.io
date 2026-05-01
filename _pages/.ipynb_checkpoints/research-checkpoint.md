@@ -21,7 +21,9 @@ author_profile: true
 ## Talks
 * **February 2026**: Delivered a talk on "Deep generative models for single-cell and spatial genomics" at the [Department of Computer Science and Engineering, IIT Delhi](https://homecse.iitd.ac.in/event/deep-generative-models-for-single-cell-and-spatial-genomics-by-ajita-shree/)
 
-* **April 2025**: Presented Lightening talk and Poster at [RECOMB 2025, Seoul, South Korea](https://recomb.org/recomb2025/)
+* **January 2026**: Delivered a Lightening talk at [ANRF-PAIR Conference on Cancer Genomics, Diagnostics and Therapeutics, IIT Kanpur](https://anrfpairiitk.in/index.html)
+
+* **April 2025**: Delivered Lightening talk and Poster at [RECOMB 2025, Seoul, South Korea](https://recomb.org/recomb2025/)
 
 * **November 2023**: Delivered a Lightening talk and Poster on [scDREAMER](https://www.nature.com/articles/s41467-023-43590-8) at the Mehta Family Center for Engineering & Medicine research symposium.
   
