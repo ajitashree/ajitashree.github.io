@@ -24,7 +24,7 @@ author_profile: true
 * **April 2025**: Presented Lightening talk and Poster at [RECOMB 2025, Seoul, South Korea](https://recomb.org/recomb2025/)
 
 * **November 2023**: Delivered a Lightening talk and Poster on [scDREAMER](https://www.nature.com/articles/s41467-023-43590-8) at the Mehta Family Center for Engineering & Medicine research symposium.
-* 
+  
 * **June-July 2023**: Presented Poster on "Supervised integration of single-cell datasets using hierarchical deep-generative model paired with cell-type classifier" at [ISMB/ECCB 2023, Lyon, France](https://www.iscb.org/ismbeccb2023-programme/posters) and [Symposium on Big Data Algorithms for Biology, IISC, Bengaluru](https://www.bdbio.in/)
 * 
 * **June-July 2022**: Presented Lightening Talk and Poster on [scDREAMER: atlas-level integration of single-cell datasets using deep generative model paired with adversarial classifier](https://www.iscb.org/ismb2022-program/posters) in MLCSB COSI at ISMB 2022, Washington, USA and at [Single Cell Biology 2022](https://coursesandconferences.wellcomeconnectingscience.org/event/single-cell-biology-20220606/), Cambridge, UK, both presented online.
