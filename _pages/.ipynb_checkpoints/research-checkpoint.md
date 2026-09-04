@@ -8,27 +8,21 @@ author_profile: true
 
 ## Publications
 
-- **A Comprehensive Benchmarking of Spatial Deconvolution and Domain Detection Methods across Diverse Tissues and Spatial Transcriptomic Technologies**  
+- **A Comprehensive Benchmarking of Spatial Deconvolution and Domain Detection Methods across Diverse Tissues and Spatial Transcriptomic Technologies** [BiorXiv, 2026](https://www.biorxiv.org/content/10.64898/2026.05.11.724248v1.full) 
   **Ajita Shree**, Aditya V, Tanush Kumar, Hamim Zafar  
-  [BiorXiv, 2026](https://www.biorxiv.org/content/10.64898/2026.05.11.724248v1.full)
-
-- **A Temporal Single-Cell Multi-Omics Atlas of Murine Pancreatic Islet Remodeling During Hyperglycaemia Progression**  
+- **A Temporal Single-Cell Multi-Omics Atlas of Murine Pancreatic Islet Remodeling During Hyperglycaemia Progression** [Molecular Metabolism, 2026](https://www.sciencedirect.com/science/article/pii/S2212877826000712)
   Simran Singh, Musale Krushna Pavan, Luiz F. Barella, Jayesh Telang, **Ajita Shree**, Shruti Agarwal, Ayush Goel, Saahiba I Thaleshwar, Jurgen Wess, Hamim Zafar  
-  [Molecular Metabolism, 2026](https://www.sciencedirect.com/science/article/pii/S2212877826000712)
-
-- **scDREAMER for atlas-level integration of single-cell datasets using deep generative model paired with adversarial classifier**  
+- **scDREAMER for atlas-level integration of single-cell datasets using deep generative model paired with adversarial classifier**[Nature Communications, 2023](https://www.nature.com/articles/s41467-023-43590-8)
   **Ajita Shree**, Musale Krushna Pavan, Hamim Zafar  
-  [Nature Communications, 2023](https://www.nature.com/articles/s41467-023-43590-8)
-
-
+  
 ## Research Talks
-* **Oct 2026**: Invited talk at [Mopitas Autumn School](https://event.sdu.dk/mopitas2026/conference), The National Institute of Public Health, Copenhagen, Denmark
-* **Oct 2026**: Invited talk at [Cambridge Biomedical Campus](https://cambridge-biomedical.com/), Cambridge, UK
+* **October 2026**: Invited talk at [Mopitas Autumn School](https://event.sdu.dk/mopitas2026/conference), The National Institute of Public Health, Copenhagen, Denmark
+* **October 2026**: Invited talk at [Cambridge Biomedical Campus](https://cambridge-biomedical.com/), Cambridge, UK
 * **February 2026**: Delivered a talk on "Deep generative models for single-cell and spatial genomics" at the [Department of Computer Science and Engineering, IIT Delhi](https://homecse.iitd.ac.in/event/deep-generative-models-for-single-cell-and-spatial-genomics-by-ajita-shree/), New Delhi, India
 
 
 ## Poster presentation and lightening talks
-* **Sept 2026**: Poster presentation and lightening talk at [Target Validation – In the Era of Genomics, Big Data, and AI](https://coursesandconferences.wellcomeconnectingscience.org/event/target-validation-in-the-era-of-genomics-big-data-and-ai-20260921/), Cambridge, UK
+* **September 2026**: Poster presentation and lightening talk at [Target Validation – In the Era of Genomics, Big Data, and AI](https://coursesandconferences.wellcomeconnectingscience.org/event/target-validation-in-the-era-of-genomics-big-data-and-ai-20260921/), Cambridge, UK
 * **August 2026**: Online lightening talk at [ECCB](https://eccb.performedia.com/poster/b-t-54-spddb-comprehensive-benchmarking-of-spatial-deconvolution-and-domain-detection-methods-for-spatial-transcriptomics-datasets-across-technologies-and-tissue-types/), Geneva, Switzerland
 * **June 2026**: Presented poster and lightening talks at [AIXBio and SCB](https://www.linkedin.com/posts/ajitashree_aixbio-scb26-activity-7473685285546127360-e3MY?utm_source=share&utm_medium=member_desktop&rcm=ACoAABAVXPYBqk-lE6CHYMYDDpoGTJIqZs7Ft8Y), Cambridge, UK
 * **January 2026**: Delivered a Lightening talk at [ANRF-PAIR Conference on Cancer Genomics, Diagnostics and Therapeutics, IIT Kanpur](https://anrfpairiitk.in/index.html), Kanpur, India
@@ -39,9 +33,9 @@ author_profile: true
 
 ## Research Visits
 
-* **Dec 2026**: SaezLab workshop at [EMBL-Heidelberg](https://www.embl.org/sites/heidelberg/), Heidelberg, Germany
+* **December 2026**: SaezLab workshop at [EMBL-Heidelberg](https://www.embl.org/sites/heidelberg/), Heidelberg, Germany
 * **June 2026**: Attended SaezLab workshop at [Paris Cardiovascular Research Center](https://parcc.inserm.fr/), Paris, France
-* **Jan 2025**: Visit to [Hindustan Aeronautics Limited (HAL)](https://hal-india.co.in/production-unit-details/tad-kanpur-division), Kanpur, India
+* **January 2025**: Visit to [Hindustan Aeronautics Limited (HAL)](https://hal-india.co.in/production-unit-details/tad-kanpur-division), Kanpur, India
 * **July 2023**: Visit to [KU Leuven](https://www.kuleuven.be/english/kuleuven), Leuven, Belgium
-* **Dec 2022**: Visit to [The von Karman Institute for Fluid Dynamics](https://www.vki.ac.be/), Sint-Genesius-Rode, Belgium
+* **December 2022**: Visit to [The von Karman Institute for Fluid Dynamics](https://www.vki.ac.be/), Sint-Genesius-Rode, Belgium
 * **2018-2019**: Industrial visits to GE R&D centers and plants in Bangalore-India, Chennai-India, Budapest-Hungary and Detroit-USA
