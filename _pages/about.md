@@ -15,7 +15,7 @@ Previously, I completed M.Tech in Computer Science and Engineering from [IIT Del
 ## Recent News
 
 * **October 2026**: Invited talk at [Mopitas Autumn School](https://event.sdu.dk/mopitas2026/conference), The National Institute of Public Health, Copenhagen, Denmark
-* * **October 2026**: Invited talk at [Cambridge Biomedical Campus](https://cambridge-biomedical.com/), Cambridge, UK
+* **October 2026**: Invited talk at [Cambridge Biomedical Campus](https://cambridge-biomedical.com/), Cambridge, UK
 * **September 2026**: Poster presentation and lightening talk at [Target Validation – In the Era of Genomics, Big Data, and AI](https://coursesandconferences.wellcomeconnectingscience.org/event/target-validation-in-the-era-of-genomics-big-data-and-ai-20260921/)
 * **August 2026**: Online lightening talk at [ECCB](https://eccb.performedia.com/poster/b-t-54-spddb-comprehensive-benchmarking-of-spatial-deconvolution-and-domain-detection-methods-for-spatial-transcriptomics-datasets-across-technologies-and-tissue-types/), Geneva, Switzerland 
 * **June 2026**: Attended SaezLab workshop at [Paris Cardiovascular Research Center](https://parcc.inserm.fr/), Paris, France
