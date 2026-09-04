@@ -42,11 +42,11 @@
     "vendor/magnific-popup/magnific-popup"
 ;
 .country-flag {
-  width: 12px;
-  height: 9px;
+  width: 16px;
+  height: 11px;
   object-fit: cover;
   display: inline-block;
-  vertical-align: 0;
-  margin-right: 3px;
+  vertical-align: -1px;
+  margin-right: 4px;
   border-radius: 1px;
 }
