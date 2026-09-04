@@ -23,7 +23,7 @@ author_profile: true
 
 ## Research Talks
 * **October 2026**: Invited talk at [Mopitas Autumn School](https://event.sdu.dk/mopitas2026/conference), The National Institute of Public Health, Copenhagen, Denmark
-* **October 2026**: Invited talk at [Cambridge Biomedical Campus](https://cambridge-biomedical.com/), Cambridge, UK
+* **October 2026**: Invited talk at [Cambridge Biomedical Campus](https://cambridge-biomedical.com/), Cambridge, <img src="https://flagcdn.com/w40/gb.png" class="country-flag">UK
 * **February 2026**: Delivered a talk on "Deep generative models for single-cell and spatial genomics" at the [Department of Computer Science and Engineering, IIT Delhi](https://homecse.iitd.ac.in/event/deep-generative-models-for-single-cell-and-spatial-genomics-by-ajita-shree/), New Delhi, India
 
 
